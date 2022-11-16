@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>AprendeYa!</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="index.js">
+</head>
+<header>
+<div class="logo">
+
+
+    <img src="OIP.jpg" width="65"px height="60"px  alt="imagen1">
+    <img src="R.png"   width="65"px height="60"px alt="imagen2">
+    <img src="R (1).png" width="60"px height="60"px alt="immagen3">
+   <h1 class="titulo">Aprende con los mejores</h1>
+    <nav>
+       <a href="#nuestros-programas">Nuestros programas</a>
+       <a href="#quienes-somos">Quienes somos</a>
+    </nav>
+</div>
+</header>
+  <div class="container">
+     <section>
+        <h1>Aprendé desarrollo web <br>con los Mejores</h1>
+        <button>VAMOS ALLA!</button>
+     </section>
+     </div>}
+      <div class="container">
+               <h2 id="quienes-somos">Somos AprendeYa!!</h2>
+                <p>Somo quienes te haremos comprender el atrte de crear pajinas web como mejor te paresca 
+                podras hacer desde una tienda online hasta  un sitio de peliculas no hay limites</p>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="nuestros-programas">
+        <div class="container">
+            <h2>Nuestros Programas</h2>
+            <div class="programas">
+                <div class="carta">
+                    <h3>Programador Front-end</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt vero corporis incidunt saepe qui commodi quasi neque veniam quam, aspernatur est beatae maxime animi sed reiciendis mollitia ducimus veritatis repellendus?</p>
+                    <button>+ Info</button>
+                </div>
+                <div class="carta">
+                    <h3>Programador Full-Stack</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt vero corporis incidunt saepe qui commodi quasi neque veniam quam, aspernatur est beatae maxime animi sed reiciendis mollitia ducimus veritatis repellendus?</p>
+                    <button>+ Info</button>
+                </div>
+                <div class="carta">
+                    <h3>Programador Python</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt vero corporis incidunt saepe qui commodi quasi neque veniam quam, aspernatur est beatae maxime animi sed reiciendis mollitia ducimus veritatis repellendus?</p>
+                    <button>+ Info</button>
+                </div>  
+            </div>
+        </div>
+    </section>
+
+    <section id="caracteristicas">
+        <div class="container">
+    <footer>
+        <div class="container">
+            <p>&copy; FabricioPr0yects</p>
+        </div>
+    </footer>
+</body>
+</html>
